@@ -1,6 +1,6 @@
 <h3 align="center"> <code>Console.WriteLine("Hello world! I'm Totorewa!");</code></h3>
 
-Working with mostly .NET by day for work, and sitting on the couch by night.
+<p align="center">Working with mostly .NET by day for work, and sitting on the couch by night.<br/>I sometimes work on Minecraft mods.</p>
 
 <!--
 **totorewa/totorewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
