@@ -1,6 +1,10 @@
-<h3 align="center"> <code>Console.WriteLine("Hello world! I'm Totorewa!");</code></h3>
+<h3 align="center"> <code>Console.WriteLine("Hello world! I'm Totorewa! 👋");</code></h3>
 
 <p align="center">Working with mostly .NET by day for work, and sitting on the couch by night.<br/>I sometimes work on Minecraft mods.</p>
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=totorewa&count_private=true&show_icons=true&include_all_commits=true&theme=nord"></img>
+</p>
 
 <!--
 **totorewa/totorewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
