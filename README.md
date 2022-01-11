@@ -1,4 +1,6 @@
-<h3 align="center"> <code>Console.WriteLine("Hello world! I'm Totorewa! 👋");</code></h3>
+``` C#
+ILogger<GithubProfile>.LogInformation("Hello {Visitor}! I'm {Name}! 👋", "world", "Totorewa");
+```
 
 <p align="center">Working with mostly .NET by day for work, and sitting on the couch by night.<br/>I sometimes work on Minecraft mods.</p>
 
